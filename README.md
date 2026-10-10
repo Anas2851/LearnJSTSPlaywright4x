@@ -40,6 +40,16 @@ The [JavaScript literals examples](./04_JS_Literals/) introduce literal values, 
 - [`null` and `undefined`](./04_JS_Literals/01_Null_undefined.js)
 - [Numeric literal practice quiz](./04_JS_Literals/02_Literal_IQ.js)
 
+### 5. Operators
+
+The [JavaScript operators examples](./05_JS_Operators/) introduce assignment, arithmetic, comparison, and logical operators, with an example of surprising loose-equality coercion:
+
+- [Operator and operand basics](./05_JS_Operators/00_operator.js)
+- [Arithmetic operators](./05_JS_Operators/01_arithmatic.js)
+- [Comparison operators](./05_JS_Operators/02_Comparison_Op.js)
+- [Logical operators](./05_JS_Operators/03_Logical_Op.js)
+- [Confusing loose equality](./05_JS_Operators/04_Confusing_Op.js)
+
 ## Run the JavaScript examples
 
 Install [Node.js](https://nodejs.org/). From the repository root, run any lesson `.js` file with `node`:
