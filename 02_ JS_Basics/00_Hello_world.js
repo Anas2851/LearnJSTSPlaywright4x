@@ -1,7 +1,7 @@
-// let a = "Hello world";
+let a = "Hello world";
 
-// console.log(a);
+console.log(a);
 
-// const b = 15;
+const b = 15;
 
-// console.log(b);
+console.log(b);
