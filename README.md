@@ -50,6 +50,14 @@ The [JavaScript operators examples](./05_JS_Operators/) introduce assignment, ar
 - [Logical operators](./05_JS_Operators/03_Logical_Op.js)
 - [Confusing loose equality](./05_JS_Operators/04_Confusing_Op.js)
 
+### 6. JavaScript practice
+
+The [JavaScript practice examples](./06_JS_practice/) reinforce data types, variables, operators, and objects:
+
+- [Primitive data types](./06_JS_practice/00_JS_Practice.js)
+- [Variables and object properties](./06_JS_practice/01_JS_practice_set.js)
+- [Arithmetic and assignment operators](./06_JS_practice/02_Operators.js)
+
 ## Run the JavaScript examples
 
 Install [Node.js](https://nodejs.org/). From the repository root, run any lesson `.js` file with `node`:
