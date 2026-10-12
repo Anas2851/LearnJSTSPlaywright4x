@@ -52,11 +52,11 @@ The [JavaScript operators examples](./05_JS_Operators/) introduce assignment, ar
 
 ### 6. JavaScript practice
 
-The [JavaScript practice examples](./06_JS_practice/) reinforce data types, variables, operators, and objects:
+The [JavaScript practice examples](./06_JS_practice/) reinforce data types, variables, objects, and operator evaluation:
 
 - [Primitive data types](./06_JS_practice/00_JS_Practice.js)
 - [Variables and object properties](./06_JS_practice/01_JS_practice_set.js)
-- [Arithmetic and assignment operators](./06_JS_practice/02_Operators.js)
+- [Arithmetic, assignment, and increment/decrement operators](./06_JS_practice/02_Operators.js)
 
 ## Run the JavaScript examples
 

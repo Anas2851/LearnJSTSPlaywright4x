@@ -32,7 +32,15 @@ console.log(e *= 5); //thye value for c will be c  c = 5 * 5 = 25
 console.log(f /= 5); //thye value for c will be c  c = 5 / 5 = 1
 
 
+let s = 100;
+console.log(s++ + ++s + s++ + ++s);    // 101 + 102 + 103+ 104
+console.log(s);
 
-   
+let h = 37;
+console.log(--h + h--);   // 36 + 35
+console.log(h);
 
+let p = 5;
+let o = p-- - --p;  //  o = 5 - 3
+console.log(o, p);
 
