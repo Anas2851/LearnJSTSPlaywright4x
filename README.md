@@ -58,6 +58,14 @@ The [JavaScript practice examples](./06_JS_practice/) reinforce data types, vari
 - [Variables and object properties](./06_JS_practice/01_JS_practice_set.js)
 - [Arithmetic, assignment, and increment/decrement operators](./06_JS_practice/02_Operators.js)
 
+### 7. Incremental operators
+
+The [incremental operators examples](./07_Incremental_operators/) introduce conditional expressions, nested ternary operators, and JavaScript's `typeof` operator:
+
+- [Ternary operator](./07_Incremental_operators/00_Ternary_operator.js)
+- [Nested ternary operator](./07_Incremental_operators/01_Nested_Ternary.js)
+- [`typeof` operator](./07_Incremental_operators/02_Type_of_OP.js)
+
 ## Run the JavaScript examples
 
 Install [Node.js](https://nodejs.org/). From the repository root, run any lesson `.js` file with `node`:
