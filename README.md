@@ -58,13 +58,21 @@ The [JavaScript practice examples](./06_JS_practice/) reinforce data types, vari
 - [Variables and object properties](./06_JS_practice/01_JS_practice_set.js)
 - [Arithmetic, assignment, and increment/decrement operators](./06_JS_practice/02_Operators.js)
 
-### 7. Incremental operators
+### 7. Ternary and type operators
 
-The [incremental operators examples](./07_Incremental_operators/) introduce conditional expressions, nested ternary operators, and JavaScript's `typeof` operator:
+The [ternary and type operator examples](./07_Ternary_operators/) introduce conditional expressions, nested ternary operators, and JavaScript's `typeof` operator:
 
-- [Ternary operator](./07_Incremental_operators/00_Ternary_operator.js)
-- [Nested ternary operator](./07_Incremental_operators/01_Nested_Ternary.js)
-- [`typeof` operator](./07_Incremental_operators/02_Type_of_OP.js)
+- [Ternary operator](./07_Ternary_operators/00_Ternary_operator.js)
+- [Nested ternary operator](./07_Ternary_operators/01_Nested_Ternary.js)
+- [`typeof` operator](./07_Ternary_operators/02_Type_of_OP.js)
+
+### 8. Increment, decrement, and nullish operators
+
+The [increment, decrement, and nullish operator examples](./08_Incre_decr_OP/) demonstrate prefix and postfix updates and nullish coalescing:
+
+- [Increment operators](./08_Incre_decr_OP/00_ID_OP.js)
+- [Decrement operators](./08_Incre_decr_OP/01_DE_OP.js)
+- [Nullish coalescing operator](./08_Incre_decr_OP/02_Nullish_OP.js)
 
 ## Run the JavaScript examples
 
