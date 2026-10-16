@@ -74,6 +74,18 @@ The [increment, decrement, and nullish operator examples](./08_Incre_decr_OP/) d
 - [Decrement operators](./08_Incre_decr_OP/01_DE_OP.js)
 - [Nullish coalescing operator](./08_Incre_decr_OP/02_Nullish_OP.js)
 
+### 9. Conditions
+
+The [conditions examples](./09_Conditions/) demonstrate `if`/`else` statements, `switch` statements, grouped cases, and fall-through:
+
+- [`if` statements](./09_Conditions/00_IF.js)
+- [`switch` statements](./09_Conditions/01_Switch.js)
+- [Grouped `switch` cases](./09_Conditions/02_Switch_group.js)
+
+### 10. User input
+
+The [user-input lesson](./10_User_input/00_User_input.js) is in progress.
+
 ## Run the JavaScript examples
 
 Install [Node.js](https://nodejs.org/). From the repository root, run any lesson `.js` file with `node`:
