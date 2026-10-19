@@ -1,0 +1,23 @@
+{
+  "name": "learn-jsts",
+  "version": "1.0.0",
+  "description": "A beginner-friendly collection of JavaScript fundamentals and prompt-engineering lessons, examples, and practice material. Work through the numbered folders in order, or jump to a topic using the links below.",
+  "homepage": "https://github.com/Anas2851/LearnJSTSPlaywright4x#readme",
+  "bugs": {
+    "url": "https://github.com/Anas2851/LearnJSTSPlaywright4x/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anas2851/LearnJSTSPlaywright4x.git"
+  },
+  "license": "ISC",
+  "author": "Anas",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

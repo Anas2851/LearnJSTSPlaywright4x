@@ -86,11 +86,16 @@ The [conditions examples](./09_Conditions/) demonstrate `if`/`else` statements, 
 
 The [user-input lesson](./10_User_input/00_User_input.js) is in progress.
 
+### 11. For practice
+
+The [daily practice example](./11_For%20_Practice/00_Daily_practice.js) uses a number entered by the user to practice loops and the FizzBuzz conditions.
+
 ## Run the JavaScript examples
 
-Install [Node.js](https://nodejs.org/). From the repository root, run any lesson `.js` file with `node`:
+Install [Node.js](https://nodejs.org/). From the repository root, run `npm install` to install dependencies used by interactive examples, such as `prompt-sync`. Then run any lesson `.js` file with `node`:
 
 ```sh
+npm install
 node "02_ JS_Basics/00_Hello_world.js"
 ```
 
