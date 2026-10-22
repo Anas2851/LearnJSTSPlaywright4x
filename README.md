@@ -88,7 +88,23 @@ The [user-input lesson](./10_User_input/00_User_input.js) is in progress.
 
 ### 11. For practice
 
-The [daily practice example](./11_For%20_Practice/00_Daily_practice.js) uses a number entered by the user to practice loops and the FizzBuzz conditions.
+The [daily practice example](./11_For%20_Practice/00_Daily_practice.js) contains exercises for `while`, `do...while`, and `for` loops, along with `switch` fall-through and conditional checks.
+
+### 12. Loops
+
+The [loop examples](./12_Loops/) include loop practice and a triangle-classification exercise:
+
+- [Loop and triangle practice](./12_Loops/00_loops.js)
+
+### 13. Arrays
+
+The [array examples](./13_Arrays/) cover creating and accessing arrays, adding and removing elements, splicing, searching, and transforming values:
+
+- [Array basics](./13_Arrays/00_Arrays.js)
+- [Adding and removing elements](./13_Arrays/01_add_remove.js)
+- [Splicing arrays](./13_Arrays/02_Splice.js)
+- [Searching arrays](./13_Arrays/03_searching.js)
+- [Transforming arrays with `map` and `filter`](./13_Arrays/04_Tranfer_array.js)
 
 ## Run the JavaScript examples
 
