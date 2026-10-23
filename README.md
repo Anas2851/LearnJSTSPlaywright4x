@@ -98,13 +98,18 @@ The [loop examples](./12_Loops/) include loop practice and a triangle-classifica
 
 ### 13. Arrays
 
-The [array examples](./13_Arrays/) cover creating and accessing arrays, adding and removing elements, splicing, searching, and transforming values:
+The [array examples](./13_Arrays/) cover creating and accessing arrays, adding and removing elements, splicing, searching, sorting, copying, combining, and transforming arrays:
 
 - [Array basics](./13_Arrays/00_Arrays.js)
 - [Adding and removing elements](./13_Arrays/01_add_remove.js)
 - [Splicing arrays](./13_Arrays/02_Splice.js)
 - [Searching arrays](./13_Arrays/03_searching.js)
-- [Transforming arrays with `map` and `filter`](./13_Arrays/04_Tranfer_array.js)
+- [Transforming and testing arrays with `map`, `filter`, `every`, and `some`](./13_Arrays/04_Transfer_array.js)
+- [Sorting arrays](./13_Arrays/05_Array_sorting.js)
+- [What is lexicographic order?](./13_Arrays/06_Lexicographic.md)
+- [Slicing arrays](./13_Arrays/07_Array_slice.js)
+- [Combining and copying arrays](./13_Arrays/08_Array_Concat.js)
+- [Copying arrays](./13_Arrays/09_Array_copy.js)
 
 ## Run the JavaScript examples
 

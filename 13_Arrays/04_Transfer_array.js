@@ -17,3 +17,16 @@ console.log(fit);
 
 let fil = numbers.filter(c=> c>20);
 console.log(fil);
+
+// Every VS Some
+
+// every - ALL must pass
+
+console.log([80,90,85].every(s => s >70));
+
+console.log([80,75,65].every(s=> s>70));
+
+
+// Some - At least one must pass
+
+console.log([80,75,65].some(s=>s>65));
