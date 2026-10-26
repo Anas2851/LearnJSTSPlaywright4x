@@ -111,6 +111,15 @@ The [array examples](./13_Arrays/) cover creating and accessing arrays, adding a
 - [Combining and copying arrays](./13_Arrays/08_Array_Concat.js)
 - [Copying arrays](./13_Arrays/09_Array_copy.js)
 
+### 14. Functions
+
+The [function examples](./15_Function/) introduce defining and calling functions, parameters and return values, function expressions and arrow functions, and variable scope:
+
+- [Function definitions and calls](./15_Function/00_funct.js)
+- [Function parameters, return values, and expressions](./15_Function/01_Type2_%26_Type%203_fn.js)
+- [Function arguments, return values, and variable scope](./15_Function/02_Function_ex.js)
+- [Block scope with `let`](./15_Function/03_fn.js)
+
 ## Run the JavaScript examples
 
 Install [Node.js](https://nodejs.org/). From the repository root, run `npm install` to install dependencies used by interactive examples, such as `prompt-sync`. Then run any lesson `.js` file with `node`:
