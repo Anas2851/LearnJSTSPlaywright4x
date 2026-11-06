@@ -126,6 +126,36 @@ The [Promise example](./21_Promise/00_Promise.js) demonstrates creating promises
 
 - [Promise basics and chaining](./21_Promise/00_Promise.js)
 
+### 16. Strings
+
+The example in [16_Hoisting](./16_Hoisting/) currently covers string immutability, indexing, length, and lexicographic comparison:
+
+- [String properties and comparisons](./16_Hoisting/00_hoisting.js)
+
+### 17. Objects
+
+The [object example](./17_Objects/) demonstrates adding, updating, and deleting properties, along with assignment behavior for primitive values and objects:
+
+- [Object properties and assignment](./17_Objects/00_objects.js)
+
+### 18. Strings
+
+The [string examples](./18_Strings/) introduce string properties, indexing, template literals, escape sequences, string methods, and a prompt-based username example:
+
+- [String basics and template literals](./18_Strings/00_str.js)
+- [String methods and username example](./18_Strings/01_str_methods.js)
+
+### 19. Multidimensional arrays
+
+The [multidimensional array examples](./19_Multi_Array/) cover nested arrays, indexing, row totals, and printing star patterns. The second example also includes a callback and asynchronous `setTimeout` demonstration:
+
+- [Multidimensional arrays](./19_Multi_Array/00_MD_Arrays.js)
+- [Star patterns and callback example](./19_Multi_Array/01_Right_hand_pattern.js)
+
+### 20. Callbacks
+
+The [callback example](./20_CallBack/00_Callback.js) demonstrates passing a callback function and shows how `setTimeout` affects execution order.
+
 ## Run the JavaScript examples
 
 Install [Node.js](https://nodejs.org/). From the repository root, run `npm install` to install dependencies used by interactive examples, such as `prompt-sync`. Then run any lesson `.js` file with `node`:
