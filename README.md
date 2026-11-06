@@ -120,6 +120,12 @@ The [function examples](./15_Function/) introduce defining and calling functions
 - [Function arguments, return values, and variable scope](./15_Function/02_Function_ex.js)
 - [Block scope with `let`](./15_Function/03_fn.js)
 
+### 15. Promises
+
+The [Promise example](./21_Promise/00_Promise.js) demonstrates creating promises, handling fulfilled and rejected results with `then` and `catch`, and chaining promise handlers.
+
+- [Promise basics and chaining](./21_Promise/00_Promise.js)
+
 ## Run the JavaScript examples
 
 Install [Node.js](https://nodejs.org/). From the repository root, run `npm install` to install dependencies used by interactive examples, such as `prompt-sync`. Then run any lesson `.js` file with `node`:
